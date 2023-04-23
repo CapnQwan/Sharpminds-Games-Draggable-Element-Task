@@ -1,0 +1,44 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#canvas {
+    width: 80vw;
+    height: 80vh;
+    background-color: lightgray;
+    border: solid;
+}
+
+#draggable-ball {
+    position: absolute;
+    width: 10vh;
+    height: 10vh;
+    left: 35vw;
+    top: 35vh;
+    border-radius: 50%;
+    background-color: orangered;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,31 @@
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\bin\Debug\net6.0\appsettings.json
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\bin\Debug\net6.0\Sharpminds Games.staticwebassets.runtime.json
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\bin\Debug\net6.0\Sharpminds Games.exe
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\bin\Debug\net6.0\Sharpminds Games.deps.json
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\bin\Debug\net6.0\Sharpminds Games.runtimeconfig.json
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\bin\Debug\net6.0\Sharpminds Games.dll
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\bin\Debug\net6.0\Sharpminds Games.pdb
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.csproj.AssemblyReference.cache
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.AssemblyInfoInputs.cache
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.AssemblyInfo.cs
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.csproj.CoreCompileInputs.cache
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.RazorAssemblyInfo.cache
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.RazorAssemblyInfo.cs
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\staticwebassets\msbuild.Sharpminds Games.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\staticwebassets\msbuild.build.Sharpminds Games.props
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sharpminds Games.props
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sharpminds Games.props
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\scopedcss\bundle\Sharpminds Games.styles.css
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\scopedcss\projectbundle\Sharpminds Games.bundle.scp.css
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.dll
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\refint\Sharpminds Games.dll
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.pdb
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\Sharpminds Games.genruntimeconfig.cache
+C:\Users\Rage\source\repos\Sharpminds Games\Sharpminds Games\obj\Debug\net6.0\ref\Sharpminds Games.dll
